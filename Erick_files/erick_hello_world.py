@@ -1,6 +1,6 @@
-"""evan_hello_world
+"""erick_hello_world
 
-    April 2nd, 2024
+    April 11, 2024
 
 """
 
