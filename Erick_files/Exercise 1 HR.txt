@@ -1,0 +1,8 @@
+def simpleArraySum(ar):
+    num = int(input())
+    ar= []
+    for i in range(num):
+        ele = int(input("Enter an element: "))
+        ar.append(ele)
+    
+    return total
